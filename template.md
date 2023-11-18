@@ -1,8 +1,9 @@
 ---
 
-status: "One of [Active | Replaced by [xxx](yyyy-mm-dd-xxx.md)]"
+status: "[active | deprecated]"
 last_modified: "YYYY-MM-DD"
 related_issue: "{link to GitHub issue}"
+replaced_by: "{/path-to-new-adr.md}"
 deciders:
   - "@github-user-name"
 tags:
