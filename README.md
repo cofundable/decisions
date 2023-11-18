@@ -40,7 +40,7 @@ While architecture decisions come in all shapes and sizes, some common examples 
 - Adopting a certain analytical framework or algorithm
 - Choosing _not_ to build a particular feature
 
-## ADR process
+### ADR process
 
 When an architectural decision needs to be recorded, please use the following steps:
 
@@ -54,7 +54,7 @@ When an architectural decision needs to be recorded, please use the following st
 5. Once the approvers have signed off on the decision, merge the PR into the `main` branch
 6. Create any follow-up tickets that are needed to implement the decision outlined in the ADR (if necessary)
 
-## Acknowledgements and Further Reading
+### Acknowledgements and Further Reading
 
 - [ADR GitHub Organization](adr)
 - [Joel Parker Henderson's ADR repo](joel)
@@ -63,3 +63,7 @@ When an architectural decision needs to be recorded, please use the following st
 [adr]: https://adr.github.io/
 [joel]: https://github.com/joelparkerhenderson/architecture-decision-record#what-is-an-architecture-decision-record
 [github]: https://github.blog/2020-08-13-why-write-adrs/
+
+## Maintainers
+
+- [@widal001](https://github.com/widal001)
