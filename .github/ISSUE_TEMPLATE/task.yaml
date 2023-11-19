@@ -1,0 +1,21 @@
+name: Task
+description: Describe a task to that needs to be completed in the repo
+title: "[Task]: "
+assignees:
+  - octocat
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A clear and concise summary of the task
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance criteria
+      description: A checklist of conditions that must be met to consider this task "done".
+      placeholder: Explain the steps to success!
+    validations:
+      required: false
