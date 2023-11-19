@@ -1,6 +1,6 @@
 ### Summary
 
-{Concises description of contribution}
+{Concise description of contribution}
 
 - Fixes #{ISSUE}
 - Time to review: **{x} minutes**
